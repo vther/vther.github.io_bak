@@ -1,5 +1,0 @@
-#serving
-port:   8001
-#host:   myjekyll
-
-detach: true
