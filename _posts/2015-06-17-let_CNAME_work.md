@@ -1,6 +1,6 @@
 ---
+layout: post
 title: 如何正确的使用CNAME
-
 ---
 
 1. 获取在github.io上得到的二级域名对应的IP

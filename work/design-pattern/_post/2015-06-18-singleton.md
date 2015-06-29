@@ -2,4 +2,4 @@
 layout: post
 ---
 
-hello w
+#Singleton
