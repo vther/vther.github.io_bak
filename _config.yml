@@ -3,3 +3,6 @@ port:   8001
 #host:   myjekyll
 
 detach: false
+highlighter: pygments
+kramdown:
+  input: GFM
