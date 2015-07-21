@@ -35,11 +35,11 @@ title: UML 类图简介
 ##聚合关系(aggregation)
 聚合关系: 关联关系的一种特例, 是强的关联关系. 聚合是整体和个体之间的关系,即has-a的关系，此时整体与部分之间是可分离的，他们可以具有各自的生命周期，部分可以属于多个整体对象，也可以为多个整体对象共享；比如计算机与CPU、公司与员工的关系等；表现在代码层面，和关联关系是一致的，只能从语义级别来区分。
    
-  ![aggregation]({{ site.url }}/images/design-pattern/aggregation.jpg)
+  ![aggregation](/images/design-pattern/aggregation.jpg)
 
 ##组合(合成)关系(composition)
 组合/合成关系: 也是关联关系的一种特例，他体现的是一种contains-a的关系，这种关系比聚合更强，也称为强聚合；他同样体现整体与部分间的关系，但此时整体与部分是不可分的，整体的生命周期结束也就意味着部分的生命周期结束；比如你和你的大脑；合成关系不能共享. 。表现在代码层面，和关联关系是一致的，只能从语义级别来区分。组合跟聚合几乎相同，唯一的区别就是“部分”不能脱离“整体”单独存在，就是说， “部分”的生命期不能比“整体”还要长。
-  ![composition]({{ site.url }}/images/design-pattern/composition.jpg)
+  ![composition](/images/design-pattern/composition.jpg)
    
 关系所表现的强弱程度依次为：组合>聚合>关联>依赖
 
