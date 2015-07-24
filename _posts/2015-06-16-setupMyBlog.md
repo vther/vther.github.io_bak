@@ -11,5 +11,5 @@ title: 使用githubpages建立博客
  4. 需要分享的话，可以使用[jiathis](http://www.jiathis.com/)、[百度分享](http://share.baidu.com/)等，各个系统的优劣就不评价了，看个人喜好吧
  5. 如果需要评论的话, 可使用[disqus](https://disqus.com/)、[多说](duoshuo.com)、评论[友言](http://www.uyan.cc/whouse)等，各个系统的优劣就不评价了，看个人喜好吧，一开始随便挑一个用吧
  
- p.s。 发现使用eclipse来进行博客编写还是不错，因为它集成了git，支持markdown显示，支持html和javascript
+ p.s. 发现使用eclipse来进行博客编写还是不错，因为它集成了git，支持markdown显示，支持html和javascript
 
