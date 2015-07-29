@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 组合模式(composite)
+title: 组合模式
 ---
 
 组合模式(composite)
