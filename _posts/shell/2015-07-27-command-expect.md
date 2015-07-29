@@ -58,6 +58,6 @@ interact
 7. interact语句标明在进行相关操作后将操作权返还给用户
 8. exit表示程序退出
 9. 脚本的入参存放在argv中，可通过[llist $argv n]或者[lrange $argv n n]来获取第n个参数，argv0则表示脚本名称
- 
+10. spawn scp ${srcfile} ${user}@${ip}:${destfile}可通过这个语句来传输文件
 #参考
 * man expect

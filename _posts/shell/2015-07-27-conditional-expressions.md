@@ -5,7 +5,8 @@ categories: shell
 tags: shell
 ---
 
-#shell条件表达式#
+shell条件表达式
+=============
    
   以下是从man bash出来的文档，并对相关文字进行翻译(持续更新)
 * -a file 为真条件：文件存在。

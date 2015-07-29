@@ -3,7 +3,8 @@ layout: post
 title: 使用githubpages建立博客
 ---
 
-#使用githubpage搭建个人博客#
+使用githubpage搭建个人博客
+======================
    
  1. 参考<https://pages.github.com/> 获得存储博客内容的地方
  2. 参考<http://jekyllrb.com/> 搭建一个本地环境(曾经尝试在windows下搭建，感觉各种缺东西，不想折腾就用linux环境吧)
