@@ -199,3 +199,9 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+ 
+#back-to-top {
+  position:fixed;
+  bottom:2rem;
+  right:2rem;
+} 
