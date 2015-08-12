@@ -15,17 +15,17 @@ title: 设计模式简介
   面向对象开发设计需要遵循一下的原则：
   
 ## 开闭原则(Open Closed Principle，OCP)
-
-## 里氏代换原则(Liskov Substitution Principle，LSP)
-
-## 依赖倒转原则(Dependency Inversion Principle，DIP)
-
-## 接口隔离原则(Interface Segregation Principle，ISP)
-
-## 合成/聚合复用原则(Composite/Aggregate Reuse Principle，CARP)
-
-## 最小知识原则(Principle of Least Knowledge，PLK，也叫迪米特法则)
   
+## 里氏代换原则(Liskov Substitution Principle，LSP)
+  
+## 依赖倒转原则(Dependency Inversion Principle，DIP)
+  
+## 接口隔离原则(Interface Segregation Principle，ISP)
+  
+## 合成/聚合复用原则(Composite/Aggregate Reuse Principle，CARP)
+  
+## 最小知识原则(Principle of Least Knowledge，PLK，也叫迪米特法则)
+   
 ----------
 
 # 常用模式
@@ -33,13 +33,15 @@ title: 设计模式简介
   常用的设计模式可分为三种类型，分别为创建型模式、结构型模式和行为型模式。
    
 ## 建型模式
+  
 * [单例模式](/2015/06/18/singleton.html)
+* [工厂模式](/2015/06/20/factory.html)
 * [抽象工厂模式](/2015/06/20/factory.html)
 * [建造者模式](/2015/07/29/builder.html)
-* [工厂模式](/2015/06/20/factory.html)
 * [原型模式](/2015/06/21/prototype.html)
    
 ## 结构型模式
+  
 * [适配器模式](/2015/06/27/adapter.html)
 * [桥接模式](/2015/08/10/bridge.html)
 * [装饰模式](/2015/06/24/decorator.html)
@@ -49,9 +51,10 @@ title: 设计模式简介
 * [代理模式](/2015/08/11/proxy.html)
   
 ## 行为型模式
+  
 * [模版方法模式](/2015/06/22/template.html)
 * [命令模式]("")
-* [迭代器模式]("")
+* [迭代器模式](/2015/08/12/iterator.html)
 * [观察者模式 ](/2015/08/04/observer.html)
 * [中介者模式](/2015/08/04/mediator.html)
 * [备忘录模式]("")
@@ -60,7 +63,7 @@ title: 设计模式简介
 * [策略模式](/2015/06/23/strategy.html)
 * [责任链模式](/2015/08/12/chain_of_responsibility.html)
 * [访问者模式](/2015/07/24/visitor.html)
-
+   
 ----------
   
 # 各模式之间的关系下图
