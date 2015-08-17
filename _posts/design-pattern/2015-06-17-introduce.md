@@ -53,12 +53,12 @@ title: 设计模式简介
 ## 行为型模式
   
 * [模版方法模式](/2015/06/22/template.html)
-* [命令模式]("")
+* [命令模式](/2015/08/13/command.html)
 * [迭代器模式](/2015/08/12/iterator.html)
 * [观察者模式 ](/2015/08/04/observer.html)
 * [中介者模式](/2015/08/04/mediator.html)
-* [备忘录模式]("")
-* [解释器模式]("")
+* [备忘录模式](/2015/08/14/memento.html)
+* [解释器模式](/2015/08/17/interpreter.html)
 * [状态模式](/2015/06/25/state.html)
 * [策略模式](/2015/06/23/strategy.html)
 * [责任链模式](/2015/08/12/chain_of_responsibility.html)
