@@ -37,11 +37,11 @@ ANTLR 语法规则
   
   import就是为了可以将语法的定义逻辑地分割成一个一个可重用的部分。ANTLR 的import就像继承一样继承了所有导入进来的语法定义。主语法定义会覆盖其他导入进来的语法定义。
   
-![combined](https://theantlrguy.atlassian.net/wiki/download/attachments/1900577/combined.png?version=1&modificationDate=1352670746879&api=v2)
+![combined](/images/java/antlr_combined.png)
 
   ANTLR使用深度优先算法，如果存在多个一样的语法规则定义，则选择找到的第一个。
   
-![nested](https://theantlrguy.atlassian.net/wiki/download/thumbnails/1900577/nested.png?version=1&modificationDate=1352670769050&api=v2)
+![nested](/images/java/antlr_nested.png)
   
 # tokens块
   
