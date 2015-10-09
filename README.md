@@ -1,4 +1,4 @@
-# HiPhone-Chan.github.io
+# Welcome to vther’s GitHub 
 
 
-* [blog.hiphone-chan.com](http://blog.hiphone-chan.com)
+* [vther.github.io](http://vther.github.io)
